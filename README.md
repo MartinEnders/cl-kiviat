@@ -40,6 +40,9 @@ diagram -> Create diagram data structure
 
 ## Test Image:
 ![Kiviat Test Image](kiviat-test.png)
+Shown image is converted from SVG to PNG
+
+[SVG Testimage](kiviat-test.svg)
 
 ## Development
 
