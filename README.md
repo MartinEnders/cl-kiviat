@@ -39,7 +39,7 @@ diagram -> Create diagram data structure
 
 
 ## Test Image:
-![Kiviat Test Image](MartinEnders.github.com/repository/cl-kiviat/kiviat-test.png)
+![Kiviat Test Image](kiviat-test.png)
 
 ## Development
 
