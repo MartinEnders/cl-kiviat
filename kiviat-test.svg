@@ -1,0 +1,66 @@
+
+<svg width="1000" height="800" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+
+<text x="500" y="30" text-anchor="middle" font-family="Verdana" font-size="25" fill="black" >CL-Kiviat TEST</text>
+<g stroke="green" stroke-width="1px">
+<line x1="500" y1="400" x2="500" y2="100"/>
+<line x1="500" y1="400" x2="650" y2="140"/>
+<line x1="500" y1="400" x2="760" y2="250"/>
+<line x1="500" y1="400" x2="800" y2="400"/>
+<line x1="500" y1="400" x2="760" y2="550"/>
+<line x1="500" y1="400" x2="650" y2="660"/>
+<line x1="500" y1="400" x2="500" y2="700"/>
+<line x1="500" y1="400" x2="350" y2="660"/>
+<line x1="500" y1="400" x2="240" y2="550"/>
+<line x1="500" y1="400" x2="200" y2="400"/>
+<line x1="500" y1="400" x2="240" y2="250"/>
+<line x1="500" y1="400" x2="350" y2="140"/>
+<g fill="none">
+<polygon  points="500,340 530,348 552,370 560,400 552,430 530,452 500,460 470,452 448,430 440,400 448,370 470,348 " />
+<polygon  points="500,280 560,296 604,340 620,400 604,460 560,504 500,520 440,504 396,460 380,400 396,340 440,296 " />
+<polygon  points="500,220 590,244 656,310 680,400 656,490 590,556 500,580 410,556 344,490 320,400 344,310 410,244 " />
+<polygon  points="500,160 620,192 708,280 740,400 708,520 620,608 500,640 380,608 292,520 260,400 292,280 380,192 " />
+<polygon  points="500,100 650,140 760,250 800,400 760,550 650,660 500,700 350,660 240,550 200,400 240,250 350,140 " />
+</g>
+<text x="503" y="357" text-anchor="start" font-family="Verdana" font-size="12" fill="green" >1</text>
+<text x="503" y="297" text-anchor="start" font-family="Verdana" font-size="12" fill="green" >2</text>
+<text x="503" y="237" text-anchor="start" font-family="Verdana" font-size="12" fill="green" >3</text>
+<text x="503" y="177" text-anchor="start" font-family="Verdana" font-size="12" fill="green" >4</text>
+<text x="503" y="117" text-anchor="start" font-family="Verdana" font-size="12" fill="green" >5</text>
+</g>
+<g stroke="grey" fill-opacity="0.4" fill="lightgrey">
+<polygon  points="500,100 650,140 588,349 620,400 708,520 584,545 500,520 380,608 318,505 320,400 406,346 470,348 " />
+</g>
+<g stroke="blue" fill-opacity="0.5" fill="blue">
+<polygon  points="500,400 500,100 650,140 588,349 620,400 " />
+</g>
+<g stroke="brown" fill-opacity="0.5" fill="brown">
+<polygon  points="500,400 708,520 584,545 " />
+</g>
+<g stroke="burlywood" fill-opacity="0.5" fill="burlywood">
+<polygon  points="500,400 500,520 380,608 318,505 320,400 " />
+</g>
+<g stroke="cadetblue" fill-opacity="0.5" fill="cadetblue">
+<polygon  points="500,400 406,346 470,348 " />
+</g>
+<text x="10" y="790" text-anchor="left" font-family="Verdana" font-size="12" fill="grey" >All Challanges</text>
+<text x="10" y="730" text-anchor="left" font-family="Verdana" font-size="12" fill="blue" >Common LISP</text>
+<text x="10" y="745" text-anchor="left" font-family="Verdana" font-size="12" fill="brown" >Pork</text>
+<text x="10" y="760" text-anchor="left" font-family="Verdana" font-size="12" fill="burlywood" >Car</text>
+<text x="10" y="775" text-anchor="left" font-family="Verdana" font-size="12" fill="cadetblue" >Banana</text>
+<text x="500" y="93" text-anchor="middle" font-family="Verdana" font-size="12" fill="black" >Fun</text>
+<text x="654" y="133" text-anchor="start" font-family="Verdana" font-size="12" fill="black" >Power</text>
+<text x="764" y="243" text-anchor="start" font-family="Verdana" font-size="12" fill="black" >Taste</text>
+<text x="804" y="400" text-anchor="start" font-family="Verdana" font-size="12" fill="black" >More Fun</text>
+<text x="764" y="564" text-anchor="start" font-family="Verdana" font-size="12" fill="black" >Taste</text>
+<text x="654" y="674" text-anchor="start" font-family="Verdana" font-size="12" fill="black" >Price</text>
+<text x="500" y="714" text-anchor="middle" font-family="Verdana" font-size="12" fill="black" >Colors</text>
+<text x="346" y="674" text-anchor="end" font-family="Verdana" font-size="12" fill="black" >Wheels</text>
+<text x="236" y="564" text-anchor="end" font-family="Verdana" font-size="12" fill="black" >Engine</text>
+<text x="196" y="400" text-anchor="end" font-family="Verdana" font-size="12" fill="black" >Trunk</text>
+<text x="236" y="243" text-anchor="end" font-family="Verdana" font-size="12" fill="black" >Yellow</text>
+<text x="346" y="133" text-anchor="end" font-family="Verdana" font-size="12" fill="black" >Curved</text>
+
+
+</svg>
